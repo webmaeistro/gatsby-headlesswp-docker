@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "workspaces": [
+    "site",
+    "theme"
+  ],
+  "keywords": [],
+  "name": "wp-gby-docker",
+  "description": "Wordpress in a docker image - gatsby to serve content - much love Martin Andersen"
+}
